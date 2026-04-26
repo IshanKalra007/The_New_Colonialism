@@ -4,7 +4,7 @@
 
 Author: Ishan Kalra
 Working paper, April 2026
-Model version: 2.0 (institutional-grade rebuild)
+Model version: 2.0 
 
 ---
 
